@@ -1,0 +1,14 @@
+Hello, this is explanation about linux!
+
+
+
+Booting is a process restarting a computer or its operating system software.
+
+It is of two types, that is:
+
+
+(1) Cold booting: when the computer is started after having been switched off. 
+
+(2) Warm booting: when the operating system alone is restarted (without being switched off) after a system crash or 'freezing'.
+
+Source: http://www.businessdictionary.com/definition/booting.html
